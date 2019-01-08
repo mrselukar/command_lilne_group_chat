@@ -1,5 +1,5 @@
 # command_line_group_chat
-Simple command line group chat application. Implements the UPP Socket protocol and is able to host 256 unique clients 
+Simple command line group chat application. Implements the UDP Socket protocol and is able to host 256 unique clients 
 
 NOTE:
 ## The server is hard coded to run of the port 8080
